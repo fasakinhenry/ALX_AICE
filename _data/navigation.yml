@@ -1,0 +1,20 @@
+main:
+  - title: 'Home'
+    url: '/'
+  - title: 'Week 1: Onboarding'
+    url: '/week1-onboarding/'
+    children:
+      - title: 'Karibu'
+        url: '/week1-onboarding/karibu/'
+        children:
+          - title: 'Mwanga Wa Kesho'
+            url: '/week1-onboarding/karibu/mwanga-wa-kesho/'
+          - title: 'Welcome to AICE'
+            url: '/week1-onboarding/karibu/welcome-to-aice/'
+      - title: 'AI and the Future of Work'
+        url: '/week1-onboarding/AI-and-the-future-of-work/'
+  - title: 'Week 2'
+    url: '/week2/'
+    children:
+      - title: 'Subsection 1'
+        url: '/week2/subsection1/'

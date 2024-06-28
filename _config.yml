@@ -1,13 +1,13 @@
-title: "My Course Site"
-description: "A site documenting my learnings from an online course."
-baseurl: "" # the subpath of your site, e.g., /blog
-url: "https://fasakinhenry.github.io/course-site" # the base hostname & protocol for your site
+title: 'ALX AICE'
+description: 'A site documenting my learnings from an online course.'
+baseurl: '' # the subpath of your site, e.g., /blog
+url: 'https://fasakinhenry.github.io/ALX_AICE' # the base hostname & protocol for your site
 theme: minimal-mistakes-jekyll
 remote_theme: mmistakes/minimal-mistakes
 
 # Minimal Mistakes settings
 sidebar:
-  nav: "navigation" # Use the navigation.yml file in the _data folder
+  nav: 'navigation' # Use the navigation.yml file in the _data folder
 
 # Repository settings
 plugins:

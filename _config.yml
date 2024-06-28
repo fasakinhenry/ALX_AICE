@@ -1,0 +1,14 @@
+title: "My Course Site"
+description: "A site documenting my learnings from an online course."
+baseurl: ""
+url: "https://fasakinhenry.github.io/ALX_AICE"
+theme: minima
+
+# Navigation links
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "Week 1: Onboarding"
+    url: "/week1-onboarding/"
+  - title: "Week 2"
+    url: "/week2/"
